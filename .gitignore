@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy and coverage reports
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Test output
+nosetests.xml
+test-results.xml
+.tox/
+
+# PEP 582 local packages
+__pypackages__/
+
+# VSCode and other IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and local secrets
+*.log
+*.env
+.env.*
+
